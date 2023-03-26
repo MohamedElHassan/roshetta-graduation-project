@@ -326,10 +326,10 @@ const AuthRegister = () => {
         <p className="auth-register__login-btn">
           لديك حساب بالفعل ؟ <Link to={'/login'}>اضغط هنا لتسجيل الدخول</Link>
         </p>
-        <p className="app__footer">
-          برمجه فريق <span>روشتة</span> 2023
-        </p>
       </div>
+      <p className="app__footer">
+        برمجه فريق <span>روشتة</span> 2023
+      </p>
     </>
   );
 };
